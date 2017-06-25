@@ -1,0 +1,37 @@
+body {
+  font-family: Helvetica;
+}
+
+h1, h2, h3, span {
+  font-weight: bold;
+}
+
+span {
+  color: blue;
+}
+.header {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url("../images/dasmoto_header_Image.jpeg");
+}
+
+
+.inventory h2 {
+  font-size: 32px;
+  color: white;
+}
+
+.Brushes h2 {
+  background-color: mediumspringgreen;
+
+}
+
+.Frames h2 {
+  background-color: lightcoral;
+
+}
+
+.Paint h2 {
+  background-color: skyblue;
+}
